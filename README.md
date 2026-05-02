@@ -22,7 +22,7 @@ And predicts whether to:
 
 ## 🖼️ Decision Tree Visualization
 
-!(assets/play_tennis_DT_Screen.png)
+![Decision Tree - Play Tennis](assets/play_tennis_DT_Screen.png)
 
 *The above diagram illustrates how the decision tree works: asking a sequence of weather conditions to decide whether to play tennis or not.*
 
